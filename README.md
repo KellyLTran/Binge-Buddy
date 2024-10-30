@@ -1,6 +1,7 @@
 # 🎬 Binge Buddy
 
-**Binge Buddy** is a database-driven C++ application designed for movie enthusiasts, providing tools to analyze and organize over 10,000 movie records sourced from the IMDB V4 API. 
+**Binge Buddy** is a database-driven C++ application designed for movie enthusiasts, providing tools to analyze and organize over 10,000 movie records sourced from the IMDB V4 API.
+
 ---
 
 ### 📋 Project Overview
