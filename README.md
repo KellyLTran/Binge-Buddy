@@ -1,6 +1,6 @@
 # 🎬 Binge Buddy
 
-**Binge Buddy** is a **database-driven C++ application** designed for movie enthusiasts. It provides tools to analyze and organize over **10,000 movie records** sourced from the **IMDB V4 API**.
+**Binge Buddy** is a database-driven C++ application designed for movie enthusiasts. It provides tools to analyze and organize over 10,000 movie records sourced from the IMDB V4 API.
 
 ---
 
@@ -14,8 +14,8 @@
 
 ### ⏱️ Benchmarking Results
 
-- **Shell Sort**: Average completion time of **167,200 nanoseconds**.
-- **Merge Sort**: Average completion time of **1,015,900 nanoseconds** (shell sort is significantly faster in this application).
+- **Shell Sort**: Average completion time of 167,200 nanoseconds.
+- **Merge Sort**: Average completion time of 1,015,900 nanoseconds (shell sort is significantly faster in this application).
 
 ### 📂 Data and Folder Structure
 
