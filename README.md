@@ -4,7 +4,7 @@
 
 ---
 
-### 📋 Project Overview
+### 🌟 Project Overview
 
 - **Purpose**: Organize and analyze large movie datasets.
 - **Features**:
