@@ -1,5 +1,6 @@
 # 🎬 Binge Buddy
 
+Tired of endlessly scrolling for the perfect movie? Meet **Binge Buddy** – your ultimate movie selection companion! 
 **Binge Buddy** is a database-driven C++ application designed for movie enthusiasts, allowing users to filter movies by genre, rating, and release year, offering sorting options such as alphabetical order, highest to lowest ratings, earliest to latest release date, and vice versa. 
 
 ---
